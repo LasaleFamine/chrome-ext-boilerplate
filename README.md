@@ -1,46 +1,13 @@
 # chrome-ext-boilerplate
-[![Build Status](https://travis-ci.org/LasaleFamine/chrome-ext-boilerplate.svg?branch=master)](https://travis-ci.org/LasaleFamine/chrome-ext-boilerplate) [![codecov](https://codecov.io/gh/LasaleFamine/chrome-ext-boilerplate/badge.svg?branch=master)](https://codecov.io/gh/LasaleFamine/chrome-ext-boilerplate?branch=master)
+[![Build Status](https://travis-ci.org/LasaleFamine/chrome-ext-boilerplate.svg?branch=master)](https://travis-ci.org/LasaleFamine/chrome-ext-boilerplate)
 
-> My supreme module
-
-
-## Install
-
-```
-$ yarn add chrome-ext-boilerplate
-```
+> Chrome Extension boilerplate with Webpack and PostCSS
 
 
 ## Usage
 
-```js
-const chromeExtBoilerplate = require('chrome-ext-boilerplate');
-
-chromeExtBoilerplate('unicorns');
-//=> 'unicorns & rainbows'
-```
-
-
-## API
-
-### chromeExtBoilerplate(input, [options])
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-##### foo
-
-Type: `boolean`<br>
-Default: `false`
-
-Lorem ipsum.
-
+// TODO
 
 ## License
 
-MIT © [Alessio](https://godev.space)
+MIT © [LasaleFamine](https://godev.space)
